@@ -1,0 +1,596 @@
+[
+    {
+        "UserID": "K259281928",
+        "UserName": "Thái Thị Tường Minh",
+        "UserLoginName": "minhthaiii000",
+        "Password": "098765",
+        "Email": "minhthaidepgai@gmail.com",
+        "SignUpDate": "11/02/2022",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392820",
+        "UserName": "Nguyễn Văn An",
+        "UserLoginName": "annguyen123",
+        "Password": "123456",
+        "Email": "annguyen123@gmail.com",
+        "SignUpDate": "12/02/2024",
+        "FanficNumber": "5"
+    },
+    {
+        "UserID": "K252392821",
+        "UserName": "Lê Thị Bích",
+        "UserLoginName": "bichle1998",
+        "Password": "abcdef",
+        "Email": "bichle1998@gmail.com",
+        "SignUpDate": "13/02/2025",
+        "FanficNumber": "7"
+    },
+    {
+        "UserID": "K252392822",
+        "UserName": "Phạm Quốc Bảo",
+        "UserLoginName": "baoquoc2000",
+        "Password": "qwerty",
+        "Email": "baoquoc2000@gmail.com",
+        "SignUpDate": "14/02/2025",
+        "FanficNumber": "8"
+    },
+    {
+        "UserID": "K252392823",
+        "UserName": "Trần Ngọc Hân",
+        "UserLoginName": "hantran007",
+        "Password": "zxcvbn",
+        "Email": "hantran007@gmail.com",
+        "SignUpDate": "15/02/2023",
+        "FanficNumber": "8"
+    },
+    {
+        "UserID": "K252392824",
+        "UserName": "Đỗ Hoàng Nam",
+        "UserLoginName": "namdo321",
+        "Password": "123abc",
+        "Email": "namdo321@gmail.com",
+        "SignUpDate": "16/02/2022",
+        "FanficNumber": "4"
+    },
+    {
+        "UserID": "K252392825",
+        "UserName": "Vũ Thanh Mai",
+        "UserLoginName": "maivuthanh",
+        "Password": "654321",
+        "Email": "maivuthanh@gmail.com",
+        "SignUpDate": "17/02/2021",
+        "FanficNumber": "7"
+    },
+    {
+        "UserID": "K252392826",
+        "UserName": "Nguyễn Thị Linh",
+        "UserLoginName": "linhnguyen95",
+        "Password": "abcdefg",
+        "Email": "linhnguyen95@gmail.com",
+        "SignUpDate": "18/02/2020",
+        "FanficNumber": "3"
+    },
+    {
+        "UserID": "K252392827",
+        "UserName": "Bùi Đức Minh",
+        "UserLoginName": "minhbui007",
+        "Password": "minh123",
+        "Email": "minhbui007@gmail.com",
+        "SignUpDate": "19/02/2025",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392828",
+        "UserName": "Hồ Quang Dũng",
+        "UserLoginName": "dungho999",
+        "Password": "password",
+        "Email": "dungho999@gmail.com",
+        "SignUpDate": "20/02/2024",
+        "FanficNumber": "9"
+    },
+    {
+        "UserID": "K252392870",
+        "UserName": "Nguyễn Minh Tú",
+        "UserLoginName": "tuminh123",
+        "Password": "pass70",
+        "Email": "tuminh123@gmail.com",
+        "SignUpDate": "05/06/2023",
+        "FanficNumber": "3"
+    },
+    {
+        "UserID": "K252392871",
+        "UserName": "Phạm Thanh Hằng",
+        "UserLoginName": "hangpham98",
+        "Password": "pass71",
+        "Email": "hangpham98@gmail.com",
+        "SignUpDate": "12/08/2021",
+        "FanficNumber": "7"
+    },
+    {
+        "UserID": "K252392872",
+        "UserName": "Lê Hoàng Bảo",
+        "UserLoginName": "baole123",
+        "Password": "pass72",
+        "Email": "baole123@gmail.com",
+        "SignUpDate": "23/09/2020",
+        "FanficNumber": "5"
+    },
+    {
+        "UserID": "K252392873",
+        "UserName": "Trần Thị Diễm",
+        "UserLoginName": "diemtran789",
+        "Password": "pass73",
+        "Email": "diemtran789@gmail.com",
+        "SignUpDate": "19/02/2024",
+        "FanficNumber": "2"
+    },
+    {
+        "UserID": "K252392874",
+        "UserName": "Hoàng Văn Nam",
+        "UserLoginName": "namhoang567",
+        "Password": "pass74",
+        "Email": "namhoang567@gmail.com",
+        "SignUpDate": "30/03/2022",
+        "FanficNumber": "9"
+    },
+    {
+        "UserID": "K252392875",
+        "UserName": "Đinh Thị Ngọc",
+        "UserLoginName": "ngocdinh2020",
+        "Password": "pass75",
+        "Email": "ngocdinh2020@gmail.com",
+        "SignUpDate": "08/11/2025",
+        "FanficNumber": "6"
+    },
+    {
+        "UserID": "K252392876",
+        "UserName": "Nguyễn Quốc Vinh",
+        "UserLoginName": "vinhquoc999",
+        "Password": "pass76",
+        "Email": "vinhquoc999@gmail.com",
+        "SignUpDate": "27/05/2023",
+        "FanficNumber": "1"
+    },
+    {
+        "UserID": "K252392877",
+        "UserName": "Phan Nhật Linh",
+        "UserLoginName": "linhphan77",
+        "Password": "pass77",
+        "Email": "linhphan77@gmail.com",
+        "SignUpDate": "14/07/2024",
+        "FanficNumber": "4"
+    },
+    {
+        "UserID": "K252392878",
+        "UserName": "Lâm Hoàng Hà",
+        "UserLoginName": "halam123",
+        "Password": "pass78",
+        "Email": "halam123@gmail.com",
+        "SignUpDate": "03/12/2021",
+        "FanficNumber": "8"
+    },
+    {
+        "UserID": "K252392879",
+        "UserName": "Vũ Thị Thu",
+        "UserLoginName": "thuvu567",
+        "Password": "pass79",
+        "Email": "thuvu567@gmail.com",
+        "SignUpDate": "06/09/2020",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392880",
+        "UserName": "Nguyễn Hải Đăng",
+        "UserLoginName": "danghai890",
+        "Password": "pass80",
+        "Email": "danghai890@gmail.com",
+        "SignUpDate": "29/04/2023",
+        "FanficNumber": "3"
+    },
+    {
+        "UserID": "K252392881",
+        "UserName": "Trịnh Hoài An",
+        "UserLoginName": "antrinh321",
+        "Password": "pass81",
+        "Email": "antrinh321@gmail.com",
+        "SignUpDate": "11/06/2024",
+        "FanficNumber": "7"
+    },
+    {
+        "UserID": "K252392882",
+        "UserName": "Đặng Phương Uyên",
+        "UserLoginName": "uyendang222",
+        "Password": "pass82",
+        "Email": "uyendang222@gmail.com",
+        "SignUpDate": "15/01/2025",
+        "FanficNumber": "5"
+    },
+    {
+        "UserID": "K252392883",
+        "UserName": "Lê Quang Dũng",
+        "UserLoginName": "dungle123",
+        "Password": "pass83",
+        "Email": "dungle123@gmail.com",
+        "SignUpDate": "20/10/2022",
+        "FanficNumber": "2"
+    },
+    {
+        "UserID": "K252392884",
+        "UserName": "Phạm Thị Yến",
+        "UserLoginName": "yenpham333",
+        "Password": "pass84",
+        "Email": "yenpham333@gmail.com",
+        "SignUpDate": "25/08/2020",
+        "FanficNumber": "11"
+    },
+    {
+        "UserID": "K252392885",
+        "UserName": "Ngô Gia Huy",
+        "UserLoginName": "huyngo567",
+        "Password": "pass85",
+        "Email": "huyngo567@gmail.com",
+        "SignUpDate": "07/03/2023",
+        "FanficNumber": "6"
+    },
+    {
+        "UserID": "K252392886",
+        "UserName": "Trần Thu Trang",
+        "UserLoginName": "trangtran789",
+        "Password": "pass86",
+        "Email": "trangtran789@gmail.com",
+        "SignUpDate": "13/07/2024",
+        "FanficNumber": "1"
+    },
+    {
+        "UserID": "K252392887",
+        "UserName": "Đỗ Minh Khôi",
+        "UserLoginName": "khoido123",
+        "Password": "pass87",
+        "Email": "khoido123@gmail.com",
+        "SignUpDate": "21/12/2021",
+        "FanficNumber": "4"
+    },
+    {
+        "UserID": "K252392888",
+        "UserName": "Nguyễn Nhật Nam",
+        "UserLoginName": "namnguyen987",
+        "Password": "pass88",
+        "Email": "namnguyen987@gmail.com",
+        "SignUpDate": "18/05/2025",
+        "FanficNumber": "8"
+    },
+    {
+        "UserID": "K252392889",
+        "UserName": "Lý Bảo Trân",
+        "UserLoginName": "tranly123",
+        "Password": "pass89",
+        "Email": "tranly123@gmail.com",
+        "SignUpDate": "02/10/2020",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392890",
+        "UserName": "Vũ Minh Hoàng",
+        "UserLoginName": "hoangvu999",
+        "Password": "pass90",
+        "Email": "hoangvu999@gmail.com",
+        "SignUpDate": "27/09/2023",
+        "FanficNumber": "3"
+    },
+    {
+        "UserID": "K252392891",
+        "UserName": "Bùi Thị Hằng",
+        "UserLoginName": "hangbui111",
+        "Password": "pass91",
+        "Email": "hangbui111@gmail.com",
+        "SignUpDate": "30/06/2022",
+        "FanficNumber": "7"
+    },
+    {
+        "UserID": "K252392892",
+        "UserName": "Đặng Văn Lâm",
+        "UserLoginName": "lamdang555",
+        "Password": "pass92",
+        "Email": "lamdang555@gmail.com",
+        "SignUpDate": "22/04/2024",
+        "FanficNumber": "5"
+    },
+    {
+        "UserID": "K252392893",
+        "UserName": "Nguyễn Thị Kiều",
+        "UserLoginName": "kieunguyen777",
+        "Password": "pass93",
+        "Email": "kieunguyen777@gmail.com",
+        "SignUpDate": "16/02/2021",
+        "FanficNumber": "2"
+    },
+    {
+        "UserID": "K252392894",
+        "UserName": "Lê Thanh Tú",
+        "UserLoginName": "tule888",
+        "Password": "pass94",
+        "Email": "tule888@gmail.com",
+        "SignUpDate": "09/11/2025",
+        "FanficNumber": "9"
+    },
+    {
+        "UserID": "K252392895",
+        "UserName": "Nguyễn Văn Thắng",
+        "UserLoginName": "thangnguyen123",
+        "Password": "pass95",
+        "Email": "thangnguyen123@gmail.com",
+        "SignUpDate": "05/07/2023",
+        "FanficNumber": "4"
+    },
+    {
+        "UserID": "K252392896",
+        "UserName": "Trần Hoàng Anh",
+        "UserLoginName": "anhtran456",
+        "Password": "pass96",
+        "Email": "anhtran456@gmail.com",
+        "SignUpDate": "12/01/2024",
+        "FanficNumber": "6"
+    },
+    {
+        "UserID": "K252392897",
+        "UserName": "Phạm Nhật Hào",
+        "UserLoginName": "haopham789",
+        "Password": "pass97",
+        "Email": "haopham789@gmail.com",
+        "SignUpDate": "19/11/2020",
+        "FanficNumber": "8"
+    },
+    {
+        "UserID": "K252392898",
+        "UserName": "Lê Thanh Hương",
+        "UserLoginName": "huongle999",
+        "Password": "pass98",
+        "Email": "huongle999@gmail.com",
+        "SignUpDate": "30/03/2022",
+        "FanficNumber": "2"
+    },
+    {
+        "UserID": "K252392899",
+        "UserName": "Hoàng Minh Tâm",
+        "UserLoginName": "tamhoang567",
+        "Password": "pass99",
+        "Email": "tamhoang567@gmail.com",
+        "SignUpDate": "07/05/2025",
+        "FanficNumber": "9"
+    },
+    {
+        "UserID": "K252392900",
+        "UserName": "Đỗ Quốc Bảo",
+        "UserLoginName": "baoquoc123",
+        "Password": "pass100",
+        "Email": "baoquoc123@gmail.com",
+        "SignUpDate": "21/06/2023",
+        "FanficNumber": "5"
+    },
+    {
+        "UserID": "K252392901",
+        "UserName": "Nguyễn Gia Khang",
+        "UserLoginName": "khangnguyen222",
+        "Password": "pass101",
+        "Email": "khangnguyen222@gmail.com",
+        "SignUpDate": "14/08/2021",
+        "FanficNumber": "1"
+    },
+    {
+        "UserID": "K252392902",
+        "UserName": "Trần Thị Kim",
+        "UserLoginName": "kimtran333",
+        "Password": "pass102",
+        "Email": "kimtran333@gmail.com",
+        "SignUpDate": "10/09/2024",
+        "FanficNumber": "3"
+    },
+    {
+        "UserID": "K252392903",
+        "UserName": "Lâm Quang Vũ",
+        "UserLoginName": "vulam789",
+        "Password": "pass103",
+        "Email": "vulam789@gmail.com",
+        "SignUpDate": "18/10/2020",
+        "FanficNumber": "7"
+    },
+    {
+        "UserID": "K252392904",
+        "UserName": "Phan Như Ý",
+        "UserLoginName": "yiphan567",
+        "Password": "pass104",
+        "Email": "yiphan567@gmail.com",
+        "SignUpDate": "25/12/2022",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392905",
+        "UserName": "Vũ Ngọc Lan",
+        "UserLoginName": "lanvu999",
+        "Password": "pass105",
+        "Email": "lanvu999@gmail.com",
+        "SignUpDate": "29/03/2023",
+        "FanficNumber": "4"
+    },
+    {
+        "UserID": "K252392906",
+        "UserName": "Lê Văn Hải",
+        "UserLoginName": "hailv123",
+        "Password": "pass106",
+        "Email": "hailv123@gmail.com",
+        "SignUpDate": "11/07/2024",
+        "FanficNumber": "6"
+    },
+    {
+        "UserID": "K252392907",
+        "UserName": "Đặng Thị Mai",
+        "UserLoginName": "maidang456",
+        "Password": "pass107",
+        "Email": "maidang456@gmail.com",
+        "SignUpDate": "02/04/2021",
+        "FanficNumber": "8"
+    },
+    {
+        "UserID": "K252392908",
+        "UserName": "Nguyễn Hoàng Long",
+        "UserLoginName": "longnguyen789",
+        "Password": "pass108",
+        "Email": "longnguyen789@gmail.com",
+        "SignUpDate": "16/02/2025",
+        "FanficNumber": "2"
+    },
+    {
+        "UserID": "K252392909",
+        "UserName": "Phạm Quốc Huy",
+        "UserLoginName": "huypham222",
+        "Password": "pass109",
+        "Email": "huypham222@gmail.com",
+        "SignUpDate": "22/08/2020",
+        "FanficNumber": "9"
+    },
+    {
+        "UserID": "K252392910",
+        "UserName": "Trần Minh Nhật",
+        "UserLoginName": "nhattran567",
+        "Password": "pass110",
+        "Email": "nhattran567@gmail.com",
+        "SignUpDate": "30/11/2023",
+        "FanficNumber": "5"
+    },
+    {
+        "UserID": "K252392911",
+        "UserName": "Hoàng Thu Thảo",
+        "UserLoginName": "thaoh123",
+        "Password": "pass111",
+        "Email": "thaoh123@gmail.com",
+        "SignUpDate": "07/06/2022",
+        "FanficNumber": "1"
+    },
+    {
+        "UserID": "K252392912",
+        "UserName": "Đỗ Quang Minh",
+        "UserLoginName": "minhdo999",
+        "Password": "pass112",
+        "Email": "minhdo999@gmail.com",
+        "SignUpDate": "19/03/2024",
+        "FanficNumber": "3"
+    },
+    {
+        "UserID": "K252392913",
+        "UserName": "Nguyễn Thị Hạnh",
+        "UserLoginName": "hanhnguyen456",
+        "Password": "pass113",
+        "Email": "hanhnguyen456@gmail.com",
+        "SignUpDate": "28/09/2021",
+        "FanficNumber": "7"
+    },
+    {
+        "UserID": "K252392914",
+        "UserName": "Phan Bảo Trân",
+        "UserLoginName": "tranphan789",
+        "Password": "pass114",
+        "Email": "tranphan789@gmail.com",
+        "SignUpDate": "05/12/2020",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392915",
+        "UserName": "Lâm Nhật Linh",
+        "UserLoginName": "linhlam123",
+        "Password": "pass115",
+        "Email": "linhlam123@gmail.com",
+        "SignUpDate": "14/01/2023",
+        "FanficNumber": "4"
+    },
+    {
+        "UserID": "K252392916",
+        "UserName": "Vũ Thanh Bình",
+        "UserLoginName": "binhv456",
+        "Password": "pass116",
+        "Email": "binhv456@gmail.com",
+        "SignUpDate": "27/05/2025",
+        "FanficNumber": "6"
+    },
+    {
+        "UserID": "K252392917",
+        "UserName": "Nguyễn Hải Nam",
+        "UserLoginName": "namnguyen567",
+        "Password": "pass117",
+        "Email": "namnguyen567@gmail.com",
+        "SignUpDate": "10/07/2024",
+        "FanficNumber": "8"
+    },
+    {
+        "UserID": "K252392918",
+        "UserName": "Trần Văn Tú",
+        "UserLoginName": "tutran222",
+        "Password": "pass118",
+        "Email": "tutran222@gmail.com",
+        "SignUpDate": "24/02/2021",
+        "FanficNumber": "2"
+    },
+    {
+        "UserID": "K252392919",
+        "UserName": "Hoàng Gia Bảo",
+        "UserLoginName": "baoh567",
+        "Password": "pass119",
+        "Email": "baoh567@gmail.com",
+        "SignUpDate": "17/08/2020",
+        "FanficNumber": "9"
+    },
+    {
+        "UserID": "K252392920",
+        "UserName": "Phạm Minh Anh",
+        "UserLoginName": "anhpham999",
+        "Password": "pass120",
+        "Email": "anhpham999@gmail.com",
+        "SignUpDate": "03/12/2023",
+        "FanficNumber": "5"
+    },
+    {
+        "UserID": "K252392921",
+        "UserName": "Đỗ Thị Xuân",
+        "UserLoginName": "xuan123",
+        "Password": "pass121",
+        "Email": "xuan123@gmail.com",
+        "SignUpDate": "22/06/2022",
+        "FanficNumber": "1"
+    },
+    {
+        "UserID": "K252392922",
+        "UserName": "Nguyễn Phước Hưng",
+        "UserLoginName": "hungnp789",
+        "Password": "pass122",
+        "Email": "hungnp789@gmail.com",
+        "SignUpDate": "28/03/2024",
+        "FanficNumber": "3"
+    },
+    {
+        "UserID": "K252392923",
+        "UserName": "Trịnh Bảo Ngọc",
+        "UserLoginName": "ngocbaotrinh",
+        "Password": "pass123",
+        "Email": "ngocbaotrinh@gmail.com",
+        "SignUpDate": "09/10/2021",
+        "FanficNumber": "7"
+    },
+    {
+        "UserID": "K244111478",
+        "UserName": "Phương Thảo Hồ",
+        "UserLoginName": "pthao810",
+        "Password": "08102006",
+        "Email": "hophuongthao@gmail.com",
+        "SignUpDate": "21/03/2025",
+        "FanficNumber": 0
+    },
+    {
+        "UserID": "K244111678",
+        "UserName": "Phạm Hương Quỳnh",
+        "UserLoginName": "quynh2345",
+        "Password": "23456",
+        "Email": "quynh234@gmail.com",
+        "SignUpDate": "21/03/2025",
+        "FanficNumber": "1"
+    }
+]

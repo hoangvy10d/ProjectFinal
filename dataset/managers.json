@@ -1,0 +1,32 @@
+[
+    {
+        "ManagerID": "K244111451",
+        "ManagerName": "Hoàng Phương Anh",
+        "ManagerLoginName": "panh12345",
+        "Password": "12345"
+    },
+    {
+        "ManagerID": "K244111469",
+        "ManagerName": "Trần Thị Nhật Minh",
+        "ManagerLoginName": "minhhihi",
+        "Password": "56807"
+    },
+    {
+        "ManagerID": "K244111478",
+        "ManagerName": "Hồ Thị Phương Thảo",
+        "ManagerLoginName": "thaohoho",
+        "Password": "12345"
+    },
+    {
+        "ManagerID": "K244111486",
+        "ManagerName": "Phạm Ngô Bảo Trân",
+        "ManagerLoginName": "tranngo135",
+        "Password": "trantran123"
+    },
+    {
+        "ManagerID": "K244111488",
+        "ManagerName": "Nguyễn Hoàng Vy",
+        "ManagerLoginName": "vugoang123",
+        "Password": "vyvyvy6868"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "UserID": "K252392879",
+        "UserName": "Vũ Thị Thu",
+        "UserLoginName": "thuvu567",
+        "Password": "pass79",
+        "Email": "thuvu567@gmail.com",
+        "SignUpDate": "06/09/2020",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392889",
+        "UserName": "Lý Bảo Trân",
+        "UserLoginName": "tranly123",
+        "Password": "pass89",
+        "Email": "tranly123@gmail.com",
+        "SignUpDate": "02/10/2020",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392904",
+        "UserName": "Phan Như Ý",
+        "UserLoginName": "yiphan567",
+        "Password": "pass104",
+        "Email": "yiphan567@gmail.com",
+        "SignUpDate": "25/12/2022",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392914",
+        "UserName": "Phan Bảo Trân",
+        "UserLoginName": "tranphan789",
+        "Password": "pass114",
+        "Email": "tranphan789@gmail.com",
+        "SignUpDate": "05/12/2020",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K244111478",
+        "UserName": "DepTraiSo1",
+        "UserLoginName": "deptraicogisai",
+        "Password": "12345678",
+        "Email": "deptrainhutnach@gmail.com",
+        "SignUpDate": "23/2/2023",
+        "FanficNumber": "11"
+    },
+    {
+        "UserID": "K259281928",
+        "UserName": "Thái Thị Tường Minh",
+        "UserLoginName": "minhthaiii000",
+        "Password": "098765",
+        "Email": "minhthaidepgai@gmail.com",
+        "SignUpDate": "11/02/2022",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392884",
+        "UserName": "Phạm Thị Yến",
+        "UserLoginName": "yenpham333",
+        "Password": "pass84",
+        "Email": "yenpham333@gmail.com",
+        "SignUpDate": "25/08/2020",
+        "FanficNumber": "10"
+    },
+    {
+        "UserID": "K252392827",
+        "UserName": "Bùi Đức Minh",
+        "UserLoginName": "minhbui007",
+        "Password": "minh123",
+        "Email": "minhbui007@gmail.com",
+        "SignUpDate": "19/02/2025",
+        "FanficNumber": "10"
+    }
+]
